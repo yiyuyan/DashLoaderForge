@@ -1,1 +1,1 @@
-Dependencies: NPOP ArchAPI ForgifiedFabricAPI
+Dependencies: NPOP ArchAPI

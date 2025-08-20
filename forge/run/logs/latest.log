@@ -1,0 +1,28 @@
+[17:30:12] [main/INFO] (Launcher) ModLauncher running: args [--launchTarget, forgeclientuserdev, --version, MOD_DEV, --assetIndex, 1.20.1-5, --assetsDir, F:\.gradle\caches\fabric-loom\assets, --gameDir, ., --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, -mixin.config, dashloader.mixins.json, --mixin.config, dashloader.mixins.json]
+[17:30:12] [main/INFO] (Launcher) ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.2 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
+[17:30:13] [main/INFO] (ImmediateWindowHandler) Loading ImmediateWindowProvider fmlearlywindow
+[17:30:13] [main/INFO] (EARLYDISPLAY) Trying GL version 4.6
+[17:30:13] [main/INFO] (EARLYDISPLAY) Requested GL version 4.6 got version 4.6
+[17:30:13] [main/INFO] (mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/F:/.gradle/caches/modules-2/files-2.1/dev.architectury/mixin-patched/0.8.5.12/cf1f787f58d3b08b0cb53ecbba7928c09a1893c8/mixin-patched-0.8.5.12.jar%23127!/ Service=ModLauncher Env=CLIENT
+[17:30:14] [main/WARN] (ModFileParser) Mod file F:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.3.0\d7ebc62120f202109e300e084ca1a31a7b946a62\javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[17:30:14] [main/WARN] (ModFileParser) Mod file F:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.3.0\1bf3e845ea0ce750096da8c71c8364b188ab74d4\lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[17:30:14] [main/WARN] (ModFileParser) Mod file F:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.3.0\6093682e943ddccbabf70539319d7f2fe64db2e7\mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[17:30:14] [main/WARN] (ModFileParser) Mod file F:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.3.0\3b6be96aba3e323f3c918e8ef6a96312d82d76ad\fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[17:30:14] [pool-5-thread-1/INFO] (EARLYDISPLAY) GL info: NVIDIA GeForce GTX 750 Ti/PCIe/SSE2 GL version 4.6.0 NVIDIA 537.58, NVIDIA Corporation
+[17:30:14] [main/INFO] (ModDiscoverer) Found mod file javafmllanguage-1.20.1-47.3.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7262532a
+[17:30:14] [main/INFO] (ModDiscoverer) Found mod file lowcodelanguage-1.20.1-47.3.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7262532a
+[17:30:14] [main/INFO] (ModDiscoverer) Found mod file mclanguage-1.20.1-47.3.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7262532a
+[17:30:14] [main/INFO] (ModDiscoverer) Found mod file fmlcore-1.20.1-47.3.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7262532a
+[17:30:14] [main/INFO] (ModDiscoverer) Found mod file forge-1.20.1-47.3.0-minecraft-merged-77ff25783f-1.20.1-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2-forge-1.20.1-47.3.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7262532a
+[17:30:14] [main/INFO] (ModDiscoverer) Found mod file main of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7262532a
+[17:30:14] [main/INFO] (ModDiscoverer) Found mod file  of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7262532a
+[17:30:14] [main/INFO] (ModDiscoverer) Found mod file mixinextras-forge-0.2.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@427c8f6
+[17:30:14] [main/INFO] (ModDiscoverer) Found mod file forgified-fabric-api-889079-5990306.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@427c8f6
+[17:30:14] [main/INFO] (ModDiscoverer) Found mod file architectury-forge-9.2.14.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@427c8f6
+[17:30:14] [main/INFO] (ModDiscoverer) Found mod file 15064320291285105777.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@427c8f6
+[17:30:14] [main/INFO] (ModDiscoverer) Found mod file mixinextras-forge-0.2.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@427c8f6
+[17:30:14] [main/INFO] (ModDiscoverer) Found mod file forgified-fabric-api-889079-5990306.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@427c8f6
+[17:30:14] [main/INFO] (ModDiscoverer) Found mod file architectury-forge-9.2.14.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@427c8f6
+[17:30:14] [main/INFO] (ModDiscoverer) Found mod file 15064320291285105777.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@427c8f6
+[17:30:14] [main/INFO] (JarInJarDependencyLocator) Found 1 dependencies adding them to mods collection
+[17:30:14] [main/INFO] (ModDiscoverer) Found mod file MixinExtras-0.2.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@15d25244
